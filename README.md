@@ -1,6 +1,6 @@
 # Calculadora em Python (Responsiva)
 <div aling="center">
-  <img src="https://github.com/hluna23/CalculadoraPY/assets/114502390/95d683c6-b3cd-4d34-8d21-9b1d8b0ab494" width="300px"/>
+  <img src="https://github.com/hluna23/CalculadoraPY/assets/114502390/95d683c6-b3cd-4d34-8d21-9b1d8b0ab494.png" width="300px"/>
 </div>
 <br>
 
