@@ -1,10 +1,4 @@
-# Calculadora em Python (Responsiva)
-<div aling="center">
-  <img src="https://github.com/hluna23/CalculadoraPY/assets/114502390/95d683c6-b3cd-4d34-8d21-9b1d8b0ab494.png" width="300px"/>
-</div>
-<br>
-
-
+<img src="https://github.com/hluna23/CalculadoraPY/assets/114502390/0f8cde68-ead3-4dc6-b94e-908cfc94997a"/>
 
 Este projeto consiste em uma calculadora desenvolvida em Python, capaz de realizar operações aritméticas básicas e avançadas. A interface do usuário foi implementada utilizando a biblioteca Tkinter para proporcionar uma experiência interativa e amigável. Além disso, a calculadora foi projetada para ser responsiva, adaptando-se de forma eficiente a diferentes tamanhos de tela.
 
